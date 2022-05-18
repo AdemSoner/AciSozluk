@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3fd21c64-cd07-48a2-86b0-6273fe9144d6/resourceGroups/acisozluk_group/providers/Microsoft.Web/sites/acisozluk"
+}

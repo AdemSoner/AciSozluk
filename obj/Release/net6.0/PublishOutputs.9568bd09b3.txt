@@ -1,0 +1,7 @@
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\acisozluk.exe
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\appsettings.json
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\acisozluk.dll
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\acisozluk.deps.json
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\acisozluk.runtimeconfig.json
+C:\Users\BLoJack\acisozluk\bin\Release\net6.0\publish\acisozluk.pdb
